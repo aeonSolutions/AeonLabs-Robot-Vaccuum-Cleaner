@@ -13,8 +13,14 @@
 # AeonLabs Robot Vaccuum Cleaner
 This is a PCB for a direct fit on this [Robot Vacuum Cleaner](https://s.click.aliexpress.com/e/_DCnHPKR) sold on AliExpress. 
 Advantages:
-- connect directly to your honme automation
+- connect directly to your home automation
 - no need of external , cloud storage or services
 
 
 ![](https://github.com/aeonSolutions/AeonLabs-Robot-Vaccuum-Cleaner/blob/main/robotVacuumCleanerAd.png)
+
+I've began selection of hardware components for my first prototype interation of the PCB.  I decided to used the famous Jetson Nano Module sold on Aliexpress [here](https://s.click.aliexpress.com/e/_DkUhQat). And a stereoscopic 5 mega pixel dual cameras (the Jetson is capable of a max of 24 mega pixel) 
+
+<p align="center">
+   <img src="https://github.com/aeonSolutions/AeonLabs-Robot-Vaccuum-Cleaner/blob/main/media/jetson_nano_nvidia.jpg" height="300px">
+</p>
